@@ -1,0 +1,21 @@
+
+.container{
+	display:flex;
+	width: 88%;
+	max-width: 960px;
+	margin: 0 auto;
+	border:1px solid black;
+	justify-content: space-between;
+
+}
+
+.short{
+	width: 30%;
+	background: #eeeeee;
+	padding: 1em;
+}
+
+.long{
+	width: 65%;
+	padding: 1em;
+}
